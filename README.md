@@ -1,2 +1,41 @@
-# 4bc07e612f25840e-church-ministry-payment-proces
-Professional payment processing integration api built for church ministry operations and growth.
+# Church Ministry Payment Processing Integration API
+
+> Workflow for Church Ministry
+
+Built for church ministry professionals who are tired of manually copying data between apps and rebuilding the same process every time.
+
+Connects to 400+ apps via n8n's built-in integrations — no custom code needed.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$39.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/bJe00jdPp7EobRS5bucZc3K)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
